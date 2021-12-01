@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+}
+.container {
+	background-color: #eeffdd;
+	width: 80%;
+	margin: 0 auto;
+	min-height: 900px;
+}
+img {
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+nav {
+	float: right;
+	margin: 20px;
+}
+nav ul li {
+	display: inline-block;
+	padding: 10px;
+}
+nav ul li a {
+	text-decoration: none;
+	color: black;
+}
+
+h2 {
+	text-align: center;
+	clear: both;
+	font-size: 40px;
+}
+.flex div {
+	float: left;
+}
+
+.flex div div {
+	width: 200px;
+	background-color: #eeefff;
+	height: 250px;
+	margin: 10px;
+	padding: 20px;
+}
+h4 {
+	text-align: center;
+}
+
+
+

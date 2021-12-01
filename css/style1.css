@@ -1,0 +1,39 @@
+.container {
+	background-color: #eeffdd;
+	margin: 0 auto;
+	width: 80%;
+}
+img {
+	margin-left: 50px;
+}
+nav ul {
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 50px;
+}
+nav ul li {
+	margin: 20px;
+}
+nav ul li a {
+	color: black;
+}
+h2{
+	font-size: 2.0em;
+	text-align: center;
+}
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	
+}
+.flex div div {
+	width: 250px;
+	height: 250px;
+	background-color: #eee;
+	margin: 10px;
+	padding: 10px;
+}
+h4 {
+	text-align: center;
+}
